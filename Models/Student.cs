@@ -1,3 +1,5 @@
+using aspnetWebApp.Pages;
+
 namespace aspnetWebApp.Models;
 
 public class Student
